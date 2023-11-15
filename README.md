@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cepha</h1>
-<h3 align="center">A passionate programmer</h3>
+<h3 align="center">A passionate developer</h3>
 
 <p align="left"> <a href="https://twitter.com/ef_pha" target="blank"><img src="https://img.shields.io/twitter/follow/ef_pha?logo=twitter&style=for-the-badge" alt="ef_pha" /></a> </p>
 
