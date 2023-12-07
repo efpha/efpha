@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ef_pha" target="blank"><img src="https://img.shields.io/twitter/follow/ef_pha?logo=twitter&style=for-the-badge" alt="ef_pha" /></a> </p>
 
-- 💬 Ask me about **web scrawling, web development**
+- 💬 Ask me about **web scraping, web development**
 
 - 📫 How to reach me **syncdv3@gmail.com**
 
